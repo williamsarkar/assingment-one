@@ -4,9 +4,9 @@
 
 }
 .header-line{
-    padding-left:200px;
-    padding-right: 50px;
-    padding-top: 150px;
+    padding-left:240px;
+    padding-right: 200px;
+    padding-top: 120px;
  
 }
 .header-h{
@@ -32,6 +32,13 @@ border-radius: 8px;
 padding: 20px 43px 20px 43px;
 border: none;
 
+
+}
+.header-img{
+    margin-right: 240px;
+    margin-top: 50px;
+    
+
 }
 .clor{
     color:#E55473 ;
@@ -45,8 +52,8 @@ border: none;
    
 /* } */
 .second-h{
-    margin-left: 370px;
-    margin-top: 200px;
+    margin-left: 423px;
+    margin-top: 230px;
     color: #272727;
 font-family: Lato;
 font-size: 40px;
@@ -61,8 +68,8 @@ font-family: Lato;
 font-size: 18px;
 font-weight: 400;
 line-height: 30px;
-margin-left: 345px;
-margin-right: 210px;
+margin-left: 393px;
+margin-right: 100px;
 }
 .header-bu{
     color: #FFF;
@@ -72,13 +79,84 @@ margin-right: 210px;
     border-radius: 8px;
     padding: 20px 43px 20px 43px;
     border: none;
-    margin-left: 550px;
+    margin-left: 580px;
 }
 .second-img{
     width: 318px;
     height: 420px;
     margin-top:100px ;
     /* margin-left: 1175px; */
-     margin-right:150px ; 
+     margin-right:429px ; 
+    margin-left: 150px;
     margin-bottom: 100px;
+
+}
+.third-line{
+    text-align: center;
+}
+.third-h{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+}
+.third-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+margin-left: 663px;
+margin-right: 663px;
+}
+.third-allimg{
+    text-align: center;
+    margin-left:240px;
+    margin-right: 240px;
+    margin-bottom: 100px;
+   
+}
+.forth-section{
+    background-image: url(../Rectangle\ 9.png);
+    background-repeat: no-repeat;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.forth-h{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+padding-top: 122px;
+}
+.forth-p{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+
+}
+.allinput{
+ padding-left: 227px;
+ 
+ padding-bottom: 121px;
+}
+.forth-input{
+    background: #FFF;
+  
+    padding-left:23px;
+    padding-top: 23px;
+    padding-right: 513px;
+    padding-bottom: 23px;
+    border: none;
+    border-radius: 8px;
+   
+}
+.forth-button{
+    color: #FFF;
+    font-family: Lato;
+     font-size: 20px; 
+    background-color: #E55473;
+    border-radius: 8px;
+    padding: 20px 43px 20px 43px;
+    border: none;
 }
