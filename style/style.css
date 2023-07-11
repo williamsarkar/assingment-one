@@ -119,7 +119,7 @@ margin-right: 480px;
 }
 .first-allimg{
      /* margin-left: 240px;   */
-    justify-content: space-around;
+    justify-content: space-between;
      margin-right: 240px; 
     /* text-align: center; */
     margin-bottom: 150px;
@@ -159,7 +159,7 @@ border-top-right-radius: 185px;
 padding: 17px;
 padding-bottom:0px;
 background-color: #477D1126;
-margin-top: -18px;
+margin-top: 23px;
 box-sizing: content-box;
         }
         .xyz{
@@ -180,7 +180,7 @@ box-sizing: content-box;
         .xyzb{
             border-bottom: 2px solid black;
             margin-left: 150px;
-            margin-right: 100px;
+            margin-right: 95px;
             margin-top: -1px;
         }
 
@@ -192,7 +192,7 @@ box-sizing: content-box;
     background-color:#2727270D ;
     margin-bottom: 120px;
     padding: 70px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .x{
     padding-left: 120px;
@@ -237,7 +237,13 @@ margin-right: 520px;
     justify-content: space-around;
     /* margin-right: 100px; */
     margin-bottom: 100px; 
+    padding-right: 150px;
+    padding-left: 150px;
    
+}
+.third-allimg img {
+    width: 22%;
+    margin-right: 20px;
 }
 .forth-section{
     background-image: url(../Rectangle\ 9.png);
@@ -346,6 +352,6 @@ padding-bottom: 128px;
 }
 .bonus-img{
     height: 425px;
-    width:1520px ;
+    width:1535px ;
 }
 
